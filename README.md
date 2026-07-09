@@ -3889,7 +3889,7 @@ MCP Inspector 是官方调试工具，用于测试 MCP 连接：
 
 GPL-3.0 License
 
----
+---1
 
 <div align="center">
 
